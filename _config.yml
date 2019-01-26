@@ -1,1 +1,8 @@
-theme: jekyll-theme-minimal
+# basic options
+title: NUCNC
+description: Northwestern University Computational Neuroscience Club
+
+
+# Build settings
+markdown: kramdown
+theme: minima
