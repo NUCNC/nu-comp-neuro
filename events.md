@@ -1,8 +1,3 @@
----
-layout: page
-title: Events
----
-
 # March 12, 2019, 12 PM
 **Big data and data science in neuroscience, Torben Noto**<br>
 I'd like to talk about 'big data' and data science in neuroscience. Publicly available neuroscience datasets are rapidly becoming available but actually using these datasets can be tricky. I'm going to introduce a few of these datasets, some successful projects that have used these datasets, as well as some tips and tricks for people interested in using them in the future.
