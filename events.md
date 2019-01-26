@@ -11,7 +11,7 @@ I'd like to talk about 'big data' and data science in neuroscience. Publicly ava
 
 # February 11, 2019, 5PM
 **Neural coding and decoding in MATLAB, Vivek Sagar** <br>
-For the first half of the discussion, we will briefly discuss principles of neural encoding and decoding based on the following [paper](https://www.sciencedirect.com/science/article/pii/S0079612306650310)
+For the first half of the discussion, we will briefly discuss principles of neural encoding and decoding based on the following [paper](https://www.sciencedirect.com/science/article/pii/S0079612306650310).
 Second half of the discussion will be based practically implementing these models in MATLAB. We will construct an encoder (and decoder) for mapping position to neural activity (and vice-versa) in MECII grid cells in freely behaving rats. For this we will use the following [dataset](https://www.ntnu.edu/kavli/research/grid-cell-data).
 
 Prerequisites: basic probability theory, coding in MATLAB
